@@ -1,0 +1,3 @@
+Add memoization (but you have to explain it too)
+Add random white lie generator (make 'em nice)
+Add random moral generator (fib(by) is a shortening of 'fibble-fabble'; a reduplication of "fable" i.e Aesop's) 

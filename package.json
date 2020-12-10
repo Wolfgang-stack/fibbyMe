@@ -1,0 +1,25 @@
+{
+  "name": "fibby-two",
+  "version": "1.0.0",
+  "description": "Another white lie or fibonacci generator",
+  "main": "index.js",
+  "scripts": {
+    "fibby": "babel-node src/fibby.scripts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lies",
+    "and",
+    "numbers"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.8.7",
+    "@babel/node": "^7.8.7",
+    "@babel/polyfill": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/runtime": "^7.8.7"
+  },
+  "author": "Wolfgang McRae",
+  "license": "ISC"
+}
